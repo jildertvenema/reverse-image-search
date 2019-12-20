@@ -13,4 +13,4 @@ const reverseImageSearch = (imageUrl, callBack) => {
     })
 }
 
-module.exports = { reverseImageSearch }
+module.exports = reverseImageSearch
