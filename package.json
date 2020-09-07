@@ -1,6 +1,6 @@
 {
   "name": "reverse-image-search-google",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A free solution for reverse image search using google",
   "main": "index.js",
   "directories": {
