@@ -1,3 +1,5 @@
+![Downloads](https://img.shields.io/npm/dt/reverse-image-search) ![Issues](https://img.shields.io/bitbucket/issues-raw/jildertvenema/reverse-image-search)
+
 A free solution for reverse image search using Google
 
 
